@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is [Liron Rotman](https://lironrotman-game-industry.godaddysites.com), and I'm trained game developer, passionate about games both as a gamer and
+game developer. Excited to bring technical expertise and creativity to
+collaborative projects!
+
+- 🌱 I’m currently learning Shader coding in CG/HLSL
+- I recentluy built a mid-core mobile game "Miner Keeper", check it out [here] (https://github.com/LER96/Miner_Keeper)
+- 👯 I’m looking to collaborate on Itch.io, check out [here] (https://lironr967.itch.io/)
+- 📫 How to reach me: Phone: +972544432395, Email: lironr967@gmail.com
 
 <!--
 **LER96/LER96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
